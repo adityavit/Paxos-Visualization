@@ -2,6 +2,8 @@ Paxos-Visualization
 ===================
 
 Paxos Visualization
+Aditya Bhatia
+Rahul Pandey 
 
 To compile.
 make
